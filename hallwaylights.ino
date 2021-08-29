@@ -72,7 +72,7 @@ void startupLEDsTest() {
 
 void fadeOut() {
   for (int led = 0; led < NUM_LEDS; led++) {
-    leds[led] = CHSV(161,12,99);
+    leds[led] = CHSV(0,0,0);
   }
   for (int b = 255; b > 0; b -= 40) {
     FastLED.setBrightness(b);
