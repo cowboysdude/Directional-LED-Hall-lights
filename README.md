@@ -36,13 +36,19 @@ Click on image below to see video
 ##Things you can change 
 
 #define NUM_LEDS 180           // number of leds, be careful use too many can have adverse results
+
 #define LED_DATA_PIN 9         // data pin from led light strip
+
 #define LEDS_PER_STAIR 20      
+
 // Number of Leds per stair, number that comes on at once basically.  Easy to keep is divisble with your NUM_LEDS for best effect.  Odd numbers do not work well
  
 int onTime = 20*1000;               // 20 seconds how long they stay on
+
 int MOTION_LEFT = 10;            // pin number on Nano
+
 int MOTION_RIGHT = 11;           // pin number on Nano
+
 int fadeTimeDiff = 20;          
 
 
