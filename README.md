@@ -37,7 +37,7 @@ Click on image below to see video
 
 #define NUM_LEDS 180           // number of leds, be careful use too many can have adverse results
 
-#define LED_DATA_PIN 9         // data pin from led light strip
+#define LED_DATA_PIN 9         // data pin from led light strip, Nano pin #
 
 #define LEDS_PER_STAIR 20      
 
