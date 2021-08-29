@@ -22,6 +22,10 @@ Misc wire.
 
 You will also need a 'project box' of some kind.  I just went to a free 3d print site and made my own.  You can also just buy them on Amazon.
 
+**JUST REMEMBER
+
+TRY to keep wires apart.  Power wires over top of signal wires can cause issues.  Lights coming on, or script caught in loop...etc.
+
 
 ![](Halllights.png) 
 
