@@ -29,6 +29,7 @@ TRY to keep wires apart.  Power wires over top of signal wires can cause issues.
 
 ![](Halllights.png) 
 
+Click on image below to see video
 
 [![Motion Lights](https://img.youtube.com/vi/WvaX_GYkGw0/0.jpg)](https://www.youtube.com/watch?v=WvaX_GYkGw0)
 
