@@ -20,6 +20,7 @@ Arduino Nano -> https://www.amazon.com/Arduino-A000005-ARDUINO-Nano/dp/B0097AU5O
 Misc wire.
 
 
+You will also need a 'project box' of some kind.  I just went to a free 3d print site and made my own.  You can also just buy them on Amazon.
 
 
 ![](Halllights.png) 
