@@ -28,6 +28,7 @@ TRY to keep wires apart.  Power wires over top of signal wires can cause issues.
 
 
 ![](Halllights.png) 
+ 
 
 Simple sketch to add lights to my hallway.   Works in either direction, depending on which direction you're coming from.
 
